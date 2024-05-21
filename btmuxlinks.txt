@@ -1,14 +1,12 @@
-Here are some links for more information on Empire
-==================================================
+Here are some links for more information on about BTMUX
+=======================================================
 
-https://empiredirectory.net - Our official website and server hosting
-http://www.wolfpackempire.com - The official Wolfpack Empire site
-https://empiredirectory.net/index.php/empire/faqs-menu/15-minutes-to-empire - Great introduction to playing Empire
+https://mekcity.com - Our official website and server hosting
+https://mekcity.com/muxarchive - Archive of older information about BTMUX
 
-Clients:
-==================================================
+Clients And Tools:
+=======================================================
 
-* https://empiredirectory.net/index.php/empire/faqs-menu/client-comparison - Comparision of various clients
-* https://empiredirectory.net/index.php/new-downloads/download/11-client-software/67-winace-2-5-72-full - One of the 2 best Empire clients
-* https://sourceforge.net/projects/ptkei2/ - Another great client for Empire. Written in Python/Tk and works on most platforms
+* https://mekcity.com/index.php/downloads/download/24-battletech-mux/57-thump-1-1-jar - Map editor for BTMUX - Contribute your maps for other users to play - Runs on Java
+* https://mekcity.com/index.php/downloads/download/24-battletech-mux/58-thudng2-31 - GUI client for BTMUX - Runs on Java
 
